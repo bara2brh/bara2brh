@@ -62,7 +62,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYcMgWlRm5LNMzXnlVh41XT4qfAy_eONcQgMtbD-s76gW0f5kPFIHBAsztuSpLaIq-6Bet_zKNQnLv_AcFvxwtAS8_bQ88JPg=w1879-h977"  />
+  <img height="300" src="https://github.com/bara2brh/bara2brh.github.io/blob/main/MOSHED-2024-6-24-14-9-0.gif"  />
 </div>
 
 ###
