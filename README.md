@@ -1,4 +1,6 @@
 <p class="line-1 anim-typewriter">Hello , My name is Bara' Hashlamoon</p>
+###
+
 <style>
   /* Google Fonts */
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
@@ -43,7 +45,6 @@ body{
 }
 
 </style>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bara2brh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
