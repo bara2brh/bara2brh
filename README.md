@@ -94,8 +94,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bara2brh.bara2brh&left_color=rebeccapurple&right_color=mediumpurple"  />
-</div>
-
-###
