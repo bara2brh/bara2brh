@@ -1,4 +1,4 @@
-<p align="left">tetetetet</p>
+<p class="line-1 anim-typewriter">Hello , My name is Bara' Hashlamoon</p>
 
 ###
 
